@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Práctica</string>
+    <string name="texto">George Clooney once gave 14 friends $1 million each -- in cash</string>
+    <string name="texto2">He started the anecdote in an interview with GQ, which crowded Clooney...</string>
+    <string name="cnn">CNN.com · 19 hours ago</string>
+    <string name="texto3">Space is dark, but scientists have found unexplained light.</string>
+    <string name="texto4">Scientists have used a NASA probe way out in space, beyong Pluto, to m...</string>
+    <string name="npr">NPR · 10 hours ago</string>
+    <string name="search">Search</string>
+</resources>
