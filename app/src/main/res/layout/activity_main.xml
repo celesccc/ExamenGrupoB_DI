@@ -88,14 +88,15 @@
                     android:layout_height="match_parent"
                     android:text="@string/cnn"
                     android:layout_marginTop="10dp"
-                    android:layout_marginStart="5dp"/>
+                    android:layout_marginStart="5dp"
+                    android:layout_weight="1"/>
 
                 <ImageView
                     android:layout_width="20dp"
                     android:layout_height="20dp"
                     android:src="@mipmap/menu"
                     android:layout_marginTop="10dp"
-                    android:layout_marginStart="150dp"/>
+                    android:layout_marginEnd="10dp"/>
             </LinearLayout>
 
             <LinearLayout
@@ -144,13 +145,14 @@
                     android:layout_height="match_parent"
                     android:text="@string/npr"
                     android:layout_marginTop="10dp"
-                    android:layout_marginStart="5dp"/>
+                    android:layout_marginStart="5dp"
+                    android:layout_weight="1"/>
                 <ImageView
                     android:layout_width="20dp"
                     android:layout_height="20dp"
                     android:src="@mipmap/menu"
                     android:layout_marginTop="10dp"
-                    android:layout_marginStart="190dp"/>
+                    android:layout_marginEnd="10dp"/>
             </LinearLayout>
             <ImageView
                 android:layout_width="400dp"
